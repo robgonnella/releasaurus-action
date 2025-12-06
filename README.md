@@ -1,3 +1,9 @@
+# Project Archived
+
+This project is now archived. The action is now hosted directly in the main
+releasaurus repository for easier maintenance.
+<https://github.com/robgonnella/releasaurus>
+
 # Releasaurus GitHub Action 🦕
 
 A custom GitHub Action that runs [releasaurus] to automate the release process
